@@ -1,1 +1,1 @@
-# eBPF-sandbox
+# ds2002-scripts
